@@ -70,7 +70,7 @@ LOCAL SETUP:-
 
 Clone the repo
 
-git clone <repo-url>
+git clone <https://github.com/PriyaShandilya/financeBackend.git>
 
 
 cd project-folder
