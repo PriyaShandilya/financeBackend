@@ -5,7 +5,7 @@ exports.createRecord = async (req, res) => {
   ...req.body,
   user: req.user.id
 });
-  res.json("Record created succcessfully");
+  res.json("Record created succcessfully", record);
 };
 exports.getRecords = async (req, res) => {
   try {
